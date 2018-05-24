@@ -1,6 +1,6 @@
 # note-ontology
 
-The purpose of code in this repo is to use the output of text clinic notes passed through the Noble Coder NLP engine (http://noble-tools.dbmi.pitt.edu/) to develop an ontology capable of being loaded into and queried using a triple store.
+The purpose of code in this repo is to use the output of text documents passed through the Noble Coder NLP engine (http://noble-tools.dbmi.pitt.edu/) to develop an ontology capable of being loaded into and queried using a triple store.
 
 Raw Noble output for use with the scripts is located in the 'sample data' folder.
 
