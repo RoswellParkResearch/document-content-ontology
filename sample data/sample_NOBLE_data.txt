@@ -1,11 +1,5 @@
 Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Mark	C45787	Mark	Entity	Mark/9
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Date	C25164	Date	Temporal Concept	Date/14
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	18	C111798	Eighteen	Quantitative Concept	18/23
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Service	C47920	Service	Activity	Service/31
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Patient	C16960	Patient	Patient or Disabled Group	Patient/56
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	DOB	C124903	HLA-DOB wt Allele	Gene or Genome	DOB/64
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	11	C113425	Eleven	Quantitative Concept	Nov-72
 123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	history	C54625	History	Conceptual Entity	history/80
 123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	present	C25626	Present	Qualitative Concept	present/91
 123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	scheduled	C125937	Scheduled	Qualitative Concept	scheduled/124
@@ -105,30 +99,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/1404
 123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	necrosis	C16897	Necrotic Process	Pathologic Function	necrosis/1408
 123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	scheduled	C125937	Scheduled	Qualitative Concept	scheduled/1447
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	medications	C25261	Medical	Qualitative Concept	medications/1479
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	reviewed	C45314	Reviewed	Conceptual Entity	reviewed/1496
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	DD	C14767	DD	Mammal	DD/1540
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	26	C126886	Twenty Six	Quantitative Concept	26/1547
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	DT	C880	Thymidine	Biologically Active Substance, Nucleic Acid, Nucleoside, or Nucleotide, Pharmacologic Substance	DT/1555
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	26	C126886	Twenty Six	Quantitative Concept	26/1562
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	TT	C17200	Timor-Leste	Geographic Area	TT/1570
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	18	C111798	Eighteen	Quantitative Concept	18/1573
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	17	C113431	Seventeen	Quantitative Concept	17/1576
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	GT	C51174	ITGB3 wt Allele	Gene or Genome	GT/1579
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	cr	C64547	Creatinine Measurement	Laboratory Procedure	cr/1582
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	DOCUMENT	C19498	Document	Intellectual Product	DOCUMENT/1585
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	CC	C85497	Chief Complaint	Finding	CC/1610
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	MD	C43471	Maryland	Geographic Area	MD/1639
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Falls	C50558	Fall	Phenomenon or Process	Falls/1667
-123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	NY	C66742	CDISC SDTM Yes No Unknown or Not Applicable Response Terminology	Intellectual Product	NY/1674
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	Date	C25164	Date	Temporal Concept	Date/14
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	29	C105800	Twenty Nine	Quantitative Concept	29/23
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	26	C126886	Twenty Six	Quantitative Concept	26/26
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	Service	C47920	Service	Activity	Service/29
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	MR#	C69166	Mister	Conceptual Entity	MR#/42
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	Patient	C16960	Patient	Patient or Disabled Group	Patient/54
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DOB	C124903	HLA-DOB wt Allele	Gene or Genome	DOB/62
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	28	C126888	Twenty Eight	Quantitative Concept	28/70
 123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	REASON	C25638	Reason	Idea or Concept	REASON/78
 123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	VISIT	C25716	Visit	Individual Behavior	VISIT/89
 123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	year	C29848	Year	Temporal Concept	year/116
@@ -181,35 +151,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	prophylaxis	C15843	Preventive Intervention	Therapeutic or Preventive Procedure	prophylaxis/783
 123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	followup	C16033	Follow-up	Health Care Activity	followup/799
 123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	continue	C53279	Continue	Qualitative Concept	continue/815
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	50	C105785	Fifty	Quantitative Concept	50/840
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	toothpaste	C73516	Toothpaste	Biomedical or Dental Material	toothpaste/843
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	signed	C25679	Signed	Qualitative Concept	signed/878
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	26	C126886	Twenty Six	Quantitative Concept	26/914
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	11	C113425	Eleven	Quantitative Concept	11/917
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	signed	C25679	Signed	Qualitative Concept	signed/960
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DDS	C415	Dapsone	Organic Chemical, Pharmacologic Substance	DDS/990
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	11	C113425	Eleven	Quantitative Concept	11/999
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	11	C113425	Eleven	Quantitative Concept	11/1005
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	49	C105796	Forty Nine	Quantitative Concept	49/1011
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DDS	C415	Dapsone	Organic Chemical, Pharmacologic Substance	DDS/1034
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	Dental	C41136	Dental	Qualitative Concept	Dental/1038
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	30	C105797	Thirty	Quantitative Concept	30/1052
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	26	C126886	Twenty Six	Quantitative Concept	26/1055
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DT	C880	Thymidine	Biologically Active Substance, Nucleic Acid, Nucleoside, or Nucleotide, Pharmacologic Substance	DT/1058
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	26	C126886	Twenty Six	Quantitative Concept	26/1068
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	TT	C17200	Timor-Leste	Geographic Area	TT/1071
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	17	C113431	Seventeen	Quantitative Concept	17/1074
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	14	C113428	Fourteen	Quantitative Concept	14/1077
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	dc	C25484	Discontinue	Qualitative Concept	dc/1083
-123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DOCUMENT	C19498	Document	Intellectual Product	DOCUMENT/1086
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Date	C25164	Date	Temporal Concept	Date/19
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	25-Nov
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	16	C113430	Sixteen	Quantitative Concept	16/28
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Service	C47920	Service	Activity	Service/36
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Patient	C16960	Patient	Patient or Disabled Group	Patient/61
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DOB	C124903	HLA-DOB wt Allele	Gene or Genome	DOB/69
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	10	C69122	Ten	Quantitative Concept	Oct-74
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	24	C113753	Twenty Four	Quantitative Concept	24/77
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	REASON	C25638	Reason	Idea or Concept	REASON/85
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	VISIT	C83093	Visit Name	Intellectual Product	VISIT/96
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Operative	C54733	Operative	Temporal Concept	Operative/103
@@ -243,10 +184,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	changed	C25572	Modification	Qualitative Concept	changed/509
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	carboplatin	C1282	Carboplatin	Inorganic Chemical, Pharmacologic Substance	carboplatin/520
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	between	C94545	Between	Qualitative Concept	between/551
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	11/559
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	20	C105799	Twenty	Quantitative Concept	20/562
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	29	C105800	Twenty Nine	Quantitative Concept	29/565
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	15	C113429	Fifteen	Quantitative Concept	15/575
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	He	C85242	Helium	Element, Ion, or Isotope	He/584
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	presents	C61388	Presentation	Activity	presents/587
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	dental	C41136	Dental	Qualitative Concept	dental/603
@@ -309,35 +246,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	reviewed	C45314	Reviewed	Conceptual Entity	reviewed/1263
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	signed	C25679	Signed	Qualitative Concept	signed/1303
 123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DDS	C415	Dapsone	Organic Chemical, Pharmacologic Substance	DDS/1326
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	11/1333
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	21	C107434	Twenty One	Quantitative Concept	21/1336
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	10	C69122	Ten	Quantitative Concept	10/1344
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	21	C107434	Twenty One	Quantitative Concept	21/1347
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	10	C69122	Ten	Quantitative Concept	10/1350
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DDS	C415	Dapsone	Organic Chemical, Pharmacologic Substance	DDS/1366
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Dental	C41136	Dental	Qualitative Concept	Dental/1370
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	11/1381
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	16	C113430	Sixteen	Quantitative Concept	16/1384
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DT	C880	Thymidine	Biologically Active Substance, Nucleic Acid, Nucleoside, or Nucleotide, Pharmacologic Substance	DT/1392
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	11/1396
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	16	C113430	Sixteen	Quantitative Concept	16/1399
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	TT	C17200	Timor-Leste	Geographic Area	TT/1407
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	14	C113428	Fourteen	Quantitative Concept	14/1410
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	MP	C17882	Northern Mariana Islands	Geographic Area	MP/1416
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DOCUMENT	C19498	Document	Intellectual Product	DOCUMENT/1422
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	CC	C85497	Chief Complaint	Finding	CC/1447
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	MD	C43471	Maryland	Geographic Area	MD/1477
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	16	C113430	Sixteen	Quantitative Concept	16/1480
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Main	C25562	Main	Qualitative Concept	Main/1483
-123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	NY	C66742	CDISC SDTM Yes No Unknown or Not Applicable Response Terminology	Intellectual Product	NY/1498
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	New	C25586	New	Qualitative Concept	New/11
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/31, SIGNS/37
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	New	C25586	New	Qualitative Concept	New/54
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	New	C25586	New	Qualitative Concept	New/97
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/141
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	21	C107434	Twenty One	Quantitative Concept	21/153
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	1-Oct	C53106	POU2F1 wt Allele	Gene or Genome	Oct1/156
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	10	C69122	Ten	Quantitative Concept	10/161
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Temperature	C25206	Temperature	Quantitative Concept	Temperature/167
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	degrees	C25554	Level	Quantitative Concept	degrees/179
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Heart Rate	C49677	Heart Rate	Quantitative Concept	Heart/841, Rate/847
@@ -416,10 +324,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	today	C41134	Today	Temporal Concept	today/2154
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Signatures	C47951	Routine Signature	Idea or Concept	Signatures/2182
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/2210
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	24	C113753	Twenty Four	Quantitative Concept	24/2222
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	1-Oct	C53106	POU2F1 wt Allele	Gene or Genome	Oct1/2225
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	10	C69122	Ten	Quantitative Concept	30-Oct
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	18	C111798	Eighteen	Quantitative Concept	18/2233
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/2247, SIGNS/2253
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	VISIT	C83093	Visit Name	Intellectual Product	VISIT/2260
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	REASON	C25638	Reason	Idea or Concept	REASON/2266
@@ -435,25 +339,17 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	INFECTION	C128320	Infection	Finding	INFECTION/2414
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	PREVENTION	C15405	Prevention	Therapeutic or Preventive Procedure	PREVENTION/2424
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Last	C25551	Last	Qualitative Concept	Last/2449
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	24	C113753	Twenty Four	Quantitative Concept	24/2463
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	1-Oct	C53106	POU2F1 wt Allele	Gene or Genome	Oct1/2466
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	10	C69122	Ten	Quantitative Concept	Oct-71
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	18	C111798	Eighteen	Quantitative Concept	18/2474
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/2496
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	References	C25642	Referring	Occupational Activity	References/2510
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Data	C25474	Data	Idea or Concept	Data/2525
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Referenced	C48294	Reference Object	Conceptual Entity	Referenced/2530
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/2548
 123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Center Clinic	C62563	NIH Clinical Center	Group	Center/2567, Clinic/2574
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	10	C69122	Ten	Quantitative Concept	Oct-88
-123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	18	C111798	Eighteen	Quantitative Concept	18/2591
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	New	C25586	New	Qualitative Concept	New/11
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/31, SIGNS/37
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	New	C25586	New	Qualitative Concept	New/54
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	New	C25586	New	Qualitative Concept	New/97
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/141
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/153
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	14	C113428	Fourteen	Quantitative Concept	14/161
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Temperature	C25206	Temperature	Quantitative Concept	Temperature/167
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	degrees	C25554	Level	Quantitative Concept	degrees/179
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Heart Rate	C49677	Heart Rate	Quantitative Concept	Heart/841, Rate/847
@@ -569,14 +465,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Signatures	C47951	Routine Signature	Idea or Concept	Signatures/2566
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Section	C48956	Section	Geographic Area	Section/2588
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/2613
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Signed	C25679	Signed	Qualitative Concept	Signed/2618
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/2632
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/2640
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	patient	C16960	Patient	Patient or Disabled Group	patient/2657
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	returned	C106328	Quantity Final Containers Returned	Quantitative Concept	returned/2665
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	clinic	C51282	Clinic	Health Care Related Organization	clinic/2677
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	14	C113428	Fourteen	Quantitative Concept	14/2687
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	40	C105795	Forty	Quantitative Concept	40/2690
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	surgeon	C18071	Surgeon	Biomedical Occupation or Discipline	surgeon/2705
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	service	C47920	Service	Activity	service/2721
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	evaluated	C25214	Evaluation	Activity	evaluated/2729
@@ -594,9 +482,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Signatures	C47951	Routine Signature	Idea or Concept	Signatures/2893
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/2921
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Signed VITAL	C49622	Vital Signs Domain	Idea or Concept	Signed/2926, VITAL/2958
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/2933
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	14	C113428	Fourteen	Quantitative Concept	14/2941
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	10	C69122	Ten	Quantitative Concept	Oct-44
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	VISIT	C25716	Visit	Individual Behavior	VISIT/2971
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	REASON	C25638	Reason	Idea or Concept	REASON/2977
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	ADVANCE DIRECTIVE	C93142	Advance Directive	Manufactured Object	ADVANCE/3009, DIRECTIVE/3017
@@ -624,9 +509,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Nursing Clinic	C20866	Ambulatory Care Nursing	Biomedical Occupation or Discipline	Nursing/3270, Clinic/3285
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Center Clinic	C62563	NIH Clinical Center	Group	Center/3278, Clinic/3285
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Note	C42619	Note	Intellectual Product	Note/3292
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	10	C69122	Ten	Quantitative Concept	Oct-99
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	21	C107434	Twenty One	Quantitative Concept	21/3302
-123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	10	C69122	Ten	Quantitative Concept	10-Oct
 123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	AM	C16306	Armenia	Geographic Area	AM/3316
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	New	C25586	New	Qualitative Concept	New/11
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/31, SIGNS/37
@@ -750,12 +632,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	QUESTIONNAIRE SCREEN SCREEN SCREEN	C62696	Screening Questionnaire	Intellectual Product	QUESTIONNAIRE/2587, SCREEN/2610, SCREEN/2610, SCREEN/2610
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	INITIAL	C53612	Initial Usage	Functional Concept	INITIAL/2602
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	DATE DATE	C72063	Date Fruit	Plant, Food	DATE/2617, DATE/2617
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	DATE DATE	C72063	Date Fruit	Plant, Food	DATE/2617, DATE/2617
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	21	C107434	Twenty One	Quantitative Concept	21/2622
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	11	C113425	Eleven	Quantitative Concept	29-Nov
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	ESTABLISHED	C71155	Established	Qualitative Concept	ESTABLISHED/2633
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	27	C126887	Twenty Seven	Quantitative Concept	27/2658
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	12	C113426	Twelve	Quantitative Concept	Dec-65
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	TOBACCO USE	C18059	Tobacco Use	Individual Behavior	TOBACCO/2677, USE/2685
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VENOUS	C25291	Venous	Qualitative Concept	VENOUS/2736
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	ACCESS	C25396	Access	Conceptual Entity	ACCESS/2743
@@ -783,8 +659,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	left side	C124553	Left-Sided	Qualitative Concept	left/3176, side/3181
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Signatures	C47951	Routine Signature	Idea or Concept	Signatures/3208
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/3236
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	11	C113425	Eleven	Quantitative Concept	Nov-56
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	19	C105801	Nineteen	Quantitative Concept	19/3259
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/3273, SIGNS/3279
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VISIT	C83093	Visit Name	Intellectual Product	VISIT/3286
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	REASON	C25638	Reason	Idea or Concept	REASON/3292
@@ -798,8 +672,6 @@ Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	FACILITY	C62574	Facility	Geographic Area	FACILITY/3430
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	INFECTION	C128320	Infection	Finding	INFECTION/3440
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	PREVENTION	C15405	Prevention	Therapeutic or Preventive Procedure	PREVENTION/3450
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	11	C113425	Eleven	Quantitative Concept	Nov-97
-123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	19	C105801	Nineteen	Quantitative Concept	19/3500
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/3522
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	References	C25642	Referring	Occupational Activity	References/3536
 123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Data	C25474	Data	Idea or Concept	Data/3551
