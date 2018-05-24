@@ -1,0 +1,16 @@
+PREFIX emr: <http://purl.roswellpark.org/emr/note_representations.owl/>
+PREFIX dp: <http://purl.roswellpark.org/emr/note_representations.owl/data_property/>
+PREFIX op: <http://purl.roswellpark.org/emr/note_representations.owl/object_property/>
+SELECT ?mrn ?note_id ?concept {
+    
+    ?note a emr:dental_clinic_note ;
+             op:hasNoteID ?note_id ;
+    		 emr:mentions ?concept .
+    
+    ?pt a emr:patient ;
+    	  op:hasPatientID ?mrn .
+    
+    ?note_id dp:isAboutPatient ?pt .
+    
+   # FILTER regex(?concept, "Extraction")
+}

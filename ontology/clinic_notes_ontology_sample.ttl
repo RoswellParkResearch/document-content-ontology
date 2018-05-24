@@ -1,0 +1,76 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrl: <http://www.w3.org/2003/11/swrl#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .  
+@prefix emr: <http://purl.roswellpark.org/emr/note_representations.owl/> .
+@prefix op: <http://purl.roswellpark.org/emr/note_representations.owl/object_property/> . 
+@prefix dp: <http://purl.roswellpark.org/emr/note_representations.owl/data_property/> .
+@base <http://purl.roswellpark.org/emr/note_representations.owl/> .
+
+op:hasPatientID rdf:type owl:ObjectProperty .
+op:hasNoteID rdf:type owl:ObjectProperty . 
+
+dp:isAboutPatient rdf:type owl:DatatypeProperty .
+
+emr:mentions rdf:type owl:AnnotationProperty .
+
+<http://purl.roswellpark.org/emr/sample_note_output.owl> rdf:type owl:Ontology .
+
+
+emr:pt_123456 rdf:type owl:NamedIndividual ;
+       rdf:type emr:dental_patient ;
+       op:hasPatientID '123456' .
+
+emr:pt_123457 rdf:type owl:NamedIndividual ;
+       rdf:type emr:dental_patient ;
+       op:hasPatientID '123457' .
+
+emr:pt_123458 rdf:type owl:NamedIndividual ;
+       rdf:type emr:dental_patient ;
+       op:hasPatientID '123458' .
+
+emr:pt_123459 rdf:type owl:NamedIndividual ;
+       rdf:type emr:dental_patient ;
+       op:hasPatientID '123459' .
+
+emr:note_1234567891011121 rdf:type emr:dental_clinic_note ;
+             op:hasNoteID '1234567891011121' ;
+             dp:isAboutPatient emr:pt_123456 .
+
+emr:note_1234567891011122 rdf:type emr:dental_clinic_note ;
+             op:hasNoteID '1234567891011122' ;
+             dp:isAboutPatient emr:pt_123457 .
+
+emr:note_1234567891011123 rdf:type emr:dental_clinic_note ;
+             op:hasNoteID '1234567891011123' ;
+             dp:isAboutPatient emr:pt_123458 .
+
+emr:note_1234567891011124 rdf:type emr:dental_clinic_note ;
+             op:hasNoteID '1234567891011124' ;
+             dp:isAboutPatient emr:pt_123458 .
+
+emr:note_1234567891011125 rdf:type emr:dental_clinic_note ;
+             op:hasNoteID '1234567891011125' ;
+             dp:isAboutPatient emr:pt_123458 .
+
+emr:note_1234567891011126 rdf:type emr:dental_clinic_note ;
+             op:hasNoteID '1234567891011126' ;
+             dp:isAboutPatient emr:pt_123459 .
+
+emr:note_1234567891011123 emr:mentions "Date", "Eleven", "Sixteen", "Service", "Patient", "HLA-DOB wt Allele", "Ten", "Twenty Four", "Reason", "Visit Name", "Operative", "Dentistry", "Tooth", "Personal Medical History", "Year", "Old", "Male", "Significant", "Invasion", "Squamous Cell Carcinoma of Unknown Primary Origin", "Left", "Neck", "Helium", "Status Post", "Induction", "Chemotherapy", "Then", "Complete", "Course", "Multimodality Therapy", "Chemoradiotherapy", "Murine Head and Neck", "Total", "Seventy", "Gray", "Weekly", "Cisplatin", "Modification", "Carboplatin", "Between", "Twenty", "Twenty Nine", "Fifteen", "Presentation", "Dental", "Department", "Today", "Deny", "Any", "Recent", "Change", "Histidine", "Health Status", "Since", "Last", "Visit", "Treatment", "Consent", "Give", "Administered", "One", "Articaine Hydrochloride", "Epinephrine", "Buccal Surface", "Infiltration", "Midline", "Face", "Distal", "Placement", "Resin", "Shade", "Procedure", "Well", "Very", "Equivocal", "Best", "Ability", "Awareness", "If", "Problem", "Question", "Prior", "Next", "Scheduled", "Can", "Physical Contact", "Medical", "Reviewed", "Signed", "Dapsone", "Twenty One", "Thymidine", "Timor-Leste", "Fourteen", "Northern Mariana Islands", "Document", "Chief Complaint", "Maryland", "Main", "CDISC SDTM Yes No Unknown or Not Applicable Response Terminology" .
+
+emr:note_1234567891011122 emr:mentions "Date", "Twenty Nine", "Twenty Six", "Service", "Mister", "Patient", "HLA-DOB wt Allele", "Twenty Eight", "Reason", "Visit", "Year", "Old", "Female", "History", "Adenoid Cystic Carcinoma", "Minor Salivary Gland Carcinoma", "Oropharynx", "Right", "Floor of Mouth", "Gingiva", "Surgically-Created Resection Cavity", "Oral Cavity", "Do", "Have", "Postoperative", "Radiation Therapy", "Well", "Since", "Time", "Murine Head and Neck", "Dental", "Department", "Dentistry", "Routine", "Preventive Intervention", "Scaling", "Hand", "Flossing", "Oral Hygiene", "Instruction", "Fluoride", "Treatment", "No", "Caries", "Lesion", "Present", "Notable", "Return", "Clinic", "Month", "Recall", "Oral", "Follow-up", "Continue", "Fifty", "Toothpaste", "Signed", "Eleven", "Dapsone", "Forty Nine", "Thirty", "Thymidine", "Timor-Leste", "Seventeen", "Fourteen", "Discontinue", "Document" .
+
+emr:note_1234567891011121 emr:mentions "Mark", "Date", "Eighteen", "Service", "Patient", "HLA-DOB wt Allele", "Eleven", "History", "Present", "Scheduled", "Department", "Dentistry", "Periodontal Route of Administration", "Maintenance", "Oral", "Preventive Intervention", "Helium", "Maxilla", "Obturator Foramen", "Necrotic Process", "Notable", "Medical Examination", "Have Heaviness", "Gross", "Deposit", "Stone", "Histidine", "Dentition", "Scaling", "Remove", "Heavy", "Receive", "Hand", "Root", "Flossing", "Well", "Oral Hygiene", "Home Care", "Instruction", "Request", "Return", "See", "Observation", "Follow-up", "Dental Recall", "Hygiene", "Check", "Toothbrushing", "Purchase", "Soft", "Electricity", "Toothbrush", "Assistance", "Use", "Plaque", "Extraction", "Care", "Recall", "Medical", "Reviewed", "DD", "Twenty Six", "Thymidine", "Timor-Leste", "Seventeen", "ITGB3 wt Allele", "Creatinine Measurement", "Document", "Chief Complaint", "Maryland", "Fall", "CDISC SDTM Yes No Unknown or Not Applicable Response Terminology" .
+
+emr:note_1234567891011126 emr:mentions "New", "Vital Signs Domain", "Outpatient", "Twenty", "Temperature", "Level", "Heart Rate", "Beats per Minute", "Inhalation Route of Administration", "Minute", "Eighteen", "Systole", "Millimeter of Mercury", "Diastolic Blood Pressure", "Position", "Sitting", "Method", "Oral Pain", "Scaled Score", "Thousand", "ECOG Performance Status 3", "Every Three Days", "Karnofsky Performance Status", "Performance", "Sixteen", "Age-Years", "Greater", "Over", "Old", "Normal", "Activity", "Effort", "Some", "Symptom", "ECOG Performance Status 1", "Visit Name", "Reason", "Follow-up", "No Treatment for Diabetes", "Known", "Review", "Yes", "Caregiver", "If", "Scheduled", "Procedure", "Notification", "Pharmacotherapy", "Profile", "Fluconazole", "Oral Tablet Dosage Form", "Oral Capsule Dosage Form", "Once Daily", "Fentanyl", "Twelve", "Microgram", "Hour", "Extended Release Film Dosage Form", "Patch", "Extended Release Patch Dosage Form", "Transdermal Patch Dosing Unit", "Nystatin", "Hundred Million Per Liter", "Unit per Milliliter", "Suspension", "Four Times Daily", "Fourteen", "TNF Receptor-Associated Factor 3", "Swish and Spit Route of Administration", "Echinacea", "Prochlorperazine", "Every Six Hours", "Nausea and Vomiting", "Multiple", "Vitamin E Compound", "Aspirin", "Atorvastatin Calcium", "Constipation", "Dose Frequency", "Physical Strength", "Provide", "Ibuprofen", "Magnesium Cation", "Three Times Daily", "Meal", "Patient Care", "Modification", "Advance Directive", "Health", "Proxy", "Tobacco Smoking", "Smoking Tobacco", "Tobacco Use", "Screening Questionnaire", "Initial Usage", "Date Fruit", "Twenty One", "Eleven", "Established", "Twenty Seven", "Venous", "Access", "Present", "Hospitalization", "Facility", "Receive", "Since", "Last", "Infection", "Prevention", "Ever", "Any", "Information", "Ambulatory Care Nursing", "Progress", "Complete", "Electromagnetic Radiation", "Helium", "Have Difficulty Swallowing", "Most", "Left-Sided", "Routine Signature", "Registered Nurse", "Nineteen", "Referring", "Data", "Reference Object", "NIH Clinical Center" .
+
+emr:note_1234567891011125 emr:mentions "New", "Vital Signs Domain", "Outpatient", "Sixteen", "Fourteen", "Temperature", "Level", "Heart Rate", "Beats per Minute", "Inhalation Route of Administration", "Minute", "Eighteen", "Systole", "Millimeter of Mercury", "Sri Lanka", "Diastolic Blood Pressure", "Position", "Sitting", "Method", "ECOG Performance Status 0", "Karnofsky Performance Status", "Performance", "Age-Years", "Greater", "Over", "Old", "NOS1 wt Allele", "Bristol Stool Type 1", "No Evidence of Disease", "Visit Name", "Reason", "Other", "Operative", "Known", "Review", "Yes", "Caregiver", "If", "Scheduled", "Procedure", "Notification", "Patient Care", "Modification", "Advance Directive", "Information", "Tobacco Smoking", "Smoking Tobacco", "Tobacco Use", "Questionnaire", "Screen Device Component", "Venous", "Access", "Present", "No Treatment for Diabetes", "Hospitalization", "Facility", "Infection", "Prevention", "Patient", "Ever", "Receive", "Any", "Booklet", "Give", "Nursing", "Progress", "No", "Dental", "Patient Physiological Condition", "Helium", "Cut", "Finger", "Histidine", "Left", "Hand", "Metal", "Hemorrhage", "Clinic", "Removed", "Hand Unit of Length", "Status Post", "Area", "Apply", "Antibiotic", "Ointment Dosage Form", "Bandage Dosage Form", "PNP wt Allele", "Service", "Order", "Immunization", "Return", "Injection Dosing Unit", "Routine Signature", "Section", "Registered Nurse", "Signed", "Quantity Final Containers Returned", "Forty", "Surgeon", "Evaluation", "Platinum", "Wound", "Retain", "Clean", "Suture Dosage Form", "Requirement", "Whooping Cough", "Vaccine", "Administered", "Ten", "Visit", "Treatment", "Note", "Last", "Referring", "Data", "Reference Object", "Ambulatory Care Nursing", "NIH Clinical Center", "Twenty One", "Armenia" .
+
+emr:note_1234567891011124 emr:mentions "New", "Vital Signs Domain", "Outpatient", "Twenty One", "POU2F1 wt Allele", "Ten", "Temperature", "Level", "Heart Rate", "Beats per Minute", "Fifty Nine", "Inhalation Route of Administration", "Minute", "Eighteen", "Systole", "Millimeter of Mercury", "Diastolic Blood Pressure", "Position", "Sitting", "Method", "Pain", "Scaled Score", "ECOG Performance Status 0", "Zubrod Performance Status 5", "Karnofsky Performance Status", "Performance", "Sixteen", "Age-Years", "Greater", "Over", "Old", "Bristol Stool Type 1", "NOS1 wt Allele", "No Evidence of Disease", "Visit Name", "Reason", "Other", "Operative", "Known", "Review", "Yes", "Caregiver", "If", "Scheduled", "Procedure", "Notification", "Patient Care", "Modification", "Advance Directive", "Information", "Tobacco Smoking", "Smoking Tobacco", "Tobacco Use", "Screen Device Component", "Venous", "Access", "No Treatment for Diabetes", "Present", "Hospitalization", "Facility", "Infection", "Prevention", "Ever", "Receive", "Any", "Booklet", "Give", "Ambulatory Care Nursing", "Progress", "Today", "Routine Signature", "Registered Nurse", "Twenty Four", "Questionnaire", "Last", "Referring", "Data", "Reference Object", "NIH Clinical Center" .

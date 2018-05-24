@@ -1,0 +1,809 @@
+Document	Matched Term	Code	Concept Name	Semantic Type	Annotations
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Mark	C45787	Mark	Entity	Mark/9
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Date	C25164	Date	Temporal Concept	Date/14
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	18	C111798	Eighteen	Quantitative Concept	18/23
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Service	C47920	Service	Activity	Service/31
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Patient	C16960	Patient	Patient or Disabled Group	Patient/56
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	DOB	C124903	HLA-DOB wt Allele	Gene or Genome	DOB/64
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	11	C113425	Eleven	Quantitative Concept	Nov-72
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	history	C54625	History	Conceptual Entity	history/80
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	present	C25626	Present	Qualitative Concept	present/91
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	scheduled	C125937	Scheduled	Qualitative Concept	scheduled/124
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Department	C42671	Department	Conceptual Entity	Department/141
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Dentistry	C16497	Dentistry	Biomedical Occupation or Discipline	Dentistry/155
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	periodontal	C38294	Periodontal Route of Administration	Functional Concept	periodontal/171
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	maintenance	C53297	Maintenance	Activity	maintenance/183
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	oral	C25311	Oral	Spatial Concept	oral/195
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	prophylaxis	C15843	Preventive Intervention	Therapeutic or Preventive Procedure	prophylaxis/200
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	He	C85242	Helium	Element, Ion, or Isotope	He/213
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	maxillary	C26470	Maxilla	Body Part, Organ, or Organ Component	maxillary/232
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	obturator	C75332	Obturator Foramen	Body Space or Junction	obturator/242
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	necrosis	C16897	Necrotic Process	Pathologic Function	necrosis/256
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	noted	C126374	Notable	Conceptual Entity	noted/268
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	patient	C16960	Patient	Patient or Disabled Group	patient/279
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	exam	C25305	Medical Examination	Diagnostic Procedure	exam/321
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	have heavy	C105776	Have Heaviness	Intellectual Product	have/345, heavy/350
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	gross	C43566	Gross	Qualitative Concept	gross/359
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	deposits	C9442	Deposit	Finding	deposits/365
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	calculus	C35708	Stone	Body Substance	calculus/377
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/397
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	dentition	C13072	Dentition	Body Part, Organ, or Organ Component	dentition/401
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	patient	C16960	Patient	Patient or Disabled Group	patient/416
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	periodontal	C38294	Periodontal Route of Administration	Functional Concept	periodontal/428
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	oral	C25311	Oral	Spatial Concept	oral/440
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	prophylaxis	C15843	Preventive Intervention	Therapeutic or Preventive Procedure	prophylaxis/445
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	scaling	C67036	Scaling	Activity	scaling/485
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	remove	C64914	Remove	Activity	remove/496
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	heavy	C68807	Heavy	Qualitative Concept	heavy/503
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	gross	C43566	Gross	Qualitative Concept	gross/509
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	calculus	C35708	Stone	Body Substance	calculus/522
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	deposits	C9442	Deposit	Finding	deposits/531
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	patient	C16960	Patient	Patient or Disabled Group	patient/545
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	received	C25639	Receive	Functional Concept	received/553
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	scaling	C67036	Scaling	Activity	scaling/573
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	hand	C32712	Hand	Anatomical Structure	hand/582
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	scaling	C67036	Scaling	Activity	scaling/587
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	root	C33446	Root	Anatomical Structure	root/599
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	flossing	C63735	Flossing	Individual Behavior	flossing/628
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	well	C70592	Well	Spatial Concept	well/651
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	oral hygiene	C60725	Oral Hygiene	Health Care Activity	oral/659, hygiene/664
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	home care	C99957	Home Care	Health Care Related Organization	home/672, care/677
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	instructions	C42688	Instruction	Intellectual Product	instructions/682
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	requested	C48312	Request	Conceptual Entity	requested/698
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	he	C85242	Helium	Element, Ion, or Isotope	he/708
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	return	C71900	Return	Activity	return/711
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	see	C64647	See	Activity	see/721
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	observation	C25598	Observation	Activity	observation/759
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	followup	C16033	Follow-up	Health Care Activity	followup/771
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	patient	C16960	Patient	Patient or Disabled Group	patient/785
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	received	C25639	Receive	Functional Concept	received/793
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	home care	C99957	Home Care	Health Care Related Organization	home/802, care/807
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	instructions	C42688	Instruction	Intellectual Product	instructions/812
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	patient	C16960	Patient	Patient or Disabled Group	patient/830
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	return	C71900	Return	Activity	return/844
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	periodontal	C38294	Periodontal Route of Administration	Functional Concept	periodontal/855
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	maintenance	C53297	Maintenance	Activity	maintenance/867
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	recall dental	C52573	Dental Recall	Activity	recall/879, dental/903
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	exams	C25305	Medical Examination	Diagnostic Procedure	exams/910
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	hygiene	C89798	Hygiene	Biomedical Occupation or Discipline	hygiene/922
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	check	C86058	Check	Activity	check/939
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	requested	C48312	Request	Conceptual Entity	requested/948
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	well	C70592	Well	Spatial Concept	well/961
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	He	C85242	Helium	Element, Ion, or Isotope	He/967
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	received	C25639	Receive	Functional Concept	received/970
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	hygiene	C89798	Hygiene	Biomedical Occupation or Discipline	hygiene/988
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	instructions	C42688	Instruction	Intellectual Product	instructions/996
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	received	C25639	Receive	Functional Concept	received/1034
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	brushing	C63734	Toothbrushing	Individual Behavior	brushing/1043
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	He	C85242	Helium	Element, Ion, or Isotope	He/1066
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	purchase	C122672	Purchase	Activity	purchase/1075
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	soft	C25255	Soft	Qualitative Concept	soft/1086
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	electric	C61332	Electricity	Phenomenon or Process	electric/1091
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	toothbrush	C73512	Toothbrush	Medical Device	toothbrush/1100
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	He	C85242	Helium	Element, Ion, or Isotope	He/1112
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	received	C25639	Receive	Functional Concept	received/1115
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	instructions	C42688	Instruction	Intellectual Product	instructions/1124
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	aids	C89271	Assistance	Activity	aids/1153
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	use	C25340	Use	Functional Concept	use/1162
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	plaque	C95603	Plaque	Body Substance	plaque/1181
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	removal	C61575	Extraction	Activity	removal/1188
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	well	C70592	Well	Spatial Concept	well/1199
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	flossing	C63735	Flossing	Individual Behavior	flossing/1207
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	care	C61488	Care	Activity	care/1225
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/1234
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	maxillary	C26470	Maxilla	Body Part, Organ, or Organ Component	maxillary/1238
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	obturator	C75332	Obturator Foramen	Body Space or Junction	obturator/1248
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	He	C85242	Helium	Element, Ion, or Isotope	He/1259
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	follow up	C16033	Follow-up	Health Care Activity	follow/1267, up/1274
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	follow up	C16033	Follow-up	Health Care Activity	follow/1322, up/1329
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/1336
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	periodontal	C38294	Periodontal Route of Administration	Functional Concept	periodontal/1340
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	maintenance	C53297	Maintenance	Activity	maintenance/1352
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	recall	C53609	Recall	Governmental or Regulatory Activity	recall/1364
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	patient	C16960	Patient	Patient or Disabled Group	patient/1376
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	follow up	C16033	Follow-up	Health Care Activity	follow/1390, up/1397
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/1404
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	necrosis	C16897	Necrotic Process	Pathologic Function	necrosis/1408
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	scheduled	C125937	Scheduled	Qualitative Concept	scheduled/1447
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	medications	C25261	Medical	Qualitative Concept	medications/1479
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	reviewed	C45314	Reviewed	Conceptual Entity	reviewed/1496
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	DD	C14767	DD	Mammal	DD/1540
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	26	C126886	Twenty Six	Quantitative Concept	26/1547
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	DT	C880	Thymidine	Biologically Active Substance, Nucleic Acid, Nucleoside, or Nucleotide, Pharmacologic Substance	DT/1555
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	26	C126886	Twenty Six	Quantitative Concept	26/1562
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	TT	C17200	Timor-Leste	Geographic Area	TT/1570
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	18	C111798	Eighteen	Quantitative Concept	18/1573
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	17	C113431	Seventeen	Quantitative Concept	17/1576
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	GT	C51174	ITGB3 wt Allele	Gene or Genome	GT/1579
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	cr	C64547	Creatinine Measurement	Laboratory Procedure	cr/1582
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	DOCUMENT	C19498	Document	Intellectual Product	DOCUMENT/1585
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	CC	C85497	Chief Complaint	Finding	CC/1610
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	MD	C43471	Maryland	Geographic Area	MD/1639
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	Falls	C50558	Fall	Phenomenon or Process	Falls/1667
+123456-Clinic Notes-2012 12 31 00 00 00-1234567891011121.txt	NY	C66742	CDISC SDTM Yes No Unknown or Not Applicable Response Terminology	Intellectual Product	NY/1674
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	Date	C25164	Date	Temporal Concept	Date/14
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	29	C105800	Twenty Nine	Quantitative Concept	29/23
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	26	C126886	Twenty Six	Quantitative Concept	26/26
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	Service	C47920	Service	Activity	Service/29
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	MR#	C69166	Mister	Conceptual Entity	MR#/42
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	Patient	C16960	Patient	Patient or Disabled Group	Patient/54
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DOB	C124903	HLA-DOB wt Allele	Gene or Genome	DOB/62
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	28	C126888	Twenty Eight	Quantitative Concept	28/70
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	REASON	C25638	Reason	Idea or Concept	REASON/78
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	VISIT	C25716	Visit	Individual Behavior	VISIT/89
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	year	C29848	Year	Temporal Concept	year/116
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	old	C65010	Old	Qualitative Concept	old/121
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	female	C16576	Female	Organism Attribute	female/125
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	history	C54625	History	Conceptual Entity	history/143
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	adenocystic carcinoma	C2970	Adenoid Cystic Carcinoma	Neoplastic Process	adenocystic/154, carcinoma/166
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	carcinoma minor salivary gland	C5957	Minor Salivary Gland Carcinoma	Neoplastic Process	carcinoma/166, minor/183, salivary/189, gland/198
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	carcinoma minor salivary gland	C5957	Minor Salivary Gland Carcinoma	Neoplastic Process	carcinoma/166, minor/183, salivary/189, gland/198
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	oropharynx	C12762	Oropharynx	Body Part, Organ, or Organ Component	oropharynx/211
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	right	C25228	Right	Spatial Concept	right/237
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	floor mouth	C54187	Floor of Mouth	Anatomical Structure	floor/243, mouth/256
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	gingiva	C32677	Gingiva	Tissue	gingiva/270
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	resection cavity	C20051	Surgically-Created Resection Cavity	Acquired Abnormality	resection/287, cavity/309
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	oral cavity	C12421	Oral Cavity	Body Part, Organ, or Organ Component	oral/304, cavity/309
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	did	C86066	Do	Activity	did/321
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	have	C101282	Have	Classification	have/325
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	postoperative	C28006	Postoperative	Temporal Concept	postoperative/330
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	radiation therapy	C15313	Radiation Therapy	Therapeutic or Preventive Procedure	radiation/344, therapy/354
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	radiation therapy	C15313	Radiation Therapy	Therapeutic or Preventive Procedure	radiation/344, therapy/354
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	well	C70592	Well	Spatial Concept	well/375
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	since	C45325	Since	Temporal Concept	since/380
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	time	C25207	Time	Temporal Concept	time/391
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	head neck	C23352	Murine Head and Neck	Body Location or Region	head/420, neck/429
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	service	C47920	Service	Activity	service/434
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	dental	C41136	Dental	Qualitative Concept	dental/455
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	department	C42671	Department	Conceptual Entity	department/491
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	dentistry	C16497	Dentistry	Biomedical Occupation or Discipline	dentistry/505
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	routine	C47893	Routine	Activity	routine/521
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	prophylaxis	C15843	Preventive Intervention	Therapeutic or Preventive Procedure	prophylaxis/534
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	scaling	C67036	Scaling	Activity	scaling/571
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	hand	C32712	Hand	Anatomical Structure	hand/580
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	scaling	C67036	Scaling	Activity	scaling/585
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	flossing	C63735	Flossing	Individual Behavior	flossing/608
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	oral hygiene	C60725	Oral Hygiene	Health Care Activity	oral/618, hygiene/623
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	instructions	C42688	Instruction	Intellectual Product	instructions/631
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	fluoride	C68253	Fluoride	Element, Ion, or Isotope	fluoride/651
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	treatment	C15368	Treatment	Health Care Activity	treatment/660
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	No	C49487	No	Classification	No/671
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	caries	C52593	Caries	Finding	caries/674
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	lesions	C3824	Lesion	Finding	lesions/681
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	present	C25626	Present	Qualitative Concept	present/693
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	noted	C126374	Notable	Conceptual Entity	noted/704
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	time	C25207	Time	Temporal Concept	time/718
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	return	C71900	Return	Activity	return/734
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	clinic	C51282	Clinic	Health Care Related Organization	clinic/744
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	months	C29846	Month	Temporal Concept	months/756
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	recall	C53609	Recall	Governmental or Regulatory Activity	recall/771
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	oral	C25311	Oral	Spatial Concept	oral/778
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	prophylaxis	C15843	Preventive Intervention	Therapeutic or Preventive Procedure	prophylaxis/783
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	followup	C16033	Follow-up	Health Care Activity	followup/799
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	continue	C53279	Continue	Qualitative Concept	continue/815
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	50	C105785	Fifty	Quantitative Concept	50/840
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	toothpaste	C73516	Toothpaste	Biomedical or Dental Material	toothpaste/843
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	signed	C25679	Signed	Qualitative Concept	signed/878
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	26	C126886	Twenty Six	Quantitative Concept	26/914
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	11	C113425	Eleven	Quantitative Concept	11/917
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	signed	C25679	Signed	Qualitative Concept	signed/960
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DDS	C415	Dapsone	Organic Chemical, Pharmacologic Substance	DDS/990
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	11	C113425	Eleven	Quantitative Concept	11/999
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	11	C113425	Eleven	Quantitative Concept	11/1005
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	49	C105796	Forty Nine	Quantitative Concept	49/1011
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DDS	C415	Dapsone	Organic Chemical, Pharmacologic Substance	DDS/1034
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	Dental	C41136	Dental	Qualitative Concept	Dental/1038
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	30	C105797	Thirty	Quantitative Concept	30/1052
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	26	C126886	Twenty Six	Quantitative Concept	26/1055
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DT	C880	Thymidine	Biologically Active Substance, Nucleic Acid, Nucleoside, or Nucleotide, Pharmacologic Substance	DT/1058
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	26	C126886	Twenty Six	Quantitative Concept	26/1068
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	TT	C17200	Timor-Leste	Geographic Area	TT/1071
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	17	C113431	Seventeen	Quantitative Concept	17/1074
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	14	C113428	Fourteen	Quantitative Concept	14/1077
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	dc	C25484	Discontinue	Qualitative Concept	dc/1083
+123457-Clinic Notes-2006 12 31 00 00 00-1234567891011122.txt	DOCUMENT	C19498	Document	Intellectual Product	DOCUMENT/1086
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Date	C25164	Date	Temporal Concept	Date/19
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	25-Nov
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	16	C113430	Sixteen	Quantitative Concept	16/28
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Service	C47920	Service	Activity	Service/36
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Patient	C16960	Patient	Patient or Disabled Group	Patient/61
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DOB	C124903	HLA-DOB wt Allele	Gene or Genome	DOB/69
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	10	C69122	Ten	Quantitative Concept	Oct-74
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	24	C113753	Twenty Four	Quantitative Concept	24/77
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	REASON	C25638	Reason	Idea or Concept	REASON/85
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	VISIT	C83093	Visit Name	Intellectual Product	VISIT/96
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Operative	C54733	Operative	Temporal Concept	Operative/103
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	dentistry	C16497	Dentistry	Biomedical Occupation or Discipline	dentistry/113
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	tooth	C12506	Tooth	Body Part, Organ, or Organ Component	tooth/124
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	PAST MEDICAL HISTORY	C18772	Personal Medical History	Clinical Attribute	PAST/135, MEDICAL/140, HISTORY/148
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	year	C29848	Year	Temporal Concept	year/179
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	old	C65010	Old	Qualitative Concept	old/184
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	male	C20197	Male	Organism Attribute	male/188
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	significant	C41130	Significant	Functional Concept	significant/208
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	invasive cell	C75004	Invasion	Pathologic Function	invasive/224, cell/242
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	squamous cell carcinoma unknown primary	C8099	Squamous Cell Carcinoma of Unknown Primary Origin	Neoplastic Process	squamous/233, cell/242, carcinoma/247, unknown/289, primary/297
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	left	C25229	Left	Spatial Concept	left/271
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	neck	C13063	Neck	Body Location or Region	neck/276
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	He	C85242	Helium	Element, Ion, or Isotope	He/306
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	status post	C49639	Status Post	Temporal Concept	status/312, post/319
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	induction	C61367	Induction	Activity	induction/324
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	chemotherapy	C15632	Chemotherapy	Therapeutic or Preventive Procedure	chemotherapy/334
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	He	C85242	Helium	Element, Ion, or Isotope	He/348
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	then	C65106	Then	Qualitative Concept	then/351
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	complete	C25250	Complete	Qualitative Concept	complete/367
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	course	C25379	Course	Clinical Attribute	course/378
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	concurrent therapy	C15212	Multimodality Therapy	Therapeutic or Preventive Procedure	concurrent/388, therapy/414
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	chemoradiation	C94626	Chemoradiotherapy	Therapeutic or Preventive Procedure	chemoradiation/399
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	head neck	C23352	Murine Head and Neck	Body Location or Region	head/429, neck/438
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	total	C25304	Total	Qualitative Concept	total/450
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	70	C105790	Seventy	Qualitative Concept	70/459
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Gy	C18063	Gray	Quantitative Concept	Gy/462
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	weekly	C67069	Weekly	Temporal Concept	weekly/475
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	cisplatin	C376	Cisplatin	Inorganic Chemical, Pharmacologic Substance	cisplatin/482
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	changed	C25572	Modification	Qualitative Concept	changed/509
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	carboplatin	C1282	Carboplatin	Inorganic Chemical, Pharmacologic Substance	carboplatin/520
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	between	C94545	Between	Qualitative Concept	between/551
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	11/559
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	20	C105799	Twenty	Quantitative Concept	20/562
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	29	C105800	Twenty Nine	Quantitative Concept	29/565
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	15	C113429	Fifteen	Quantitative Concept	15/575
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	He	C85242	Helium	Element, Ion, or Isotope	He/584
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	presents	C61388	Presentation	Activity	presents/587
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	dental	C41136	Dental	Qualitative Concept	dental/603
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	department	C42671	Department	Conceptual Entity	department/610
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	today	C41134	Today	Temporal Concept	today/621
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	operative	C54733	Operative	Temporal Concept	operative/631
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	dentistry	C16497	Dentistry	Biomedical Occupation or Discipline	dentistry/641
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	tooth	C12506	Tooth	Body Part, Organ, or Organ Component	tooth/654
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	denies	C74933	Deny	Activity	denies/679
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	any	C81168	Any	Conceptual Entity	any/686
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	recent	C25280	Recent	Temporal Concept	recent/690
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	change	C25446	Change	Qualitative Concept	change/697
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/707
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	health status	C16669	Health Status	Organism Attribute	health/711, status/718
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	since	C45325	Since	Temporal Concept	since/725
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/731
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	last	C25551	Last	Qualitative Concept	last/735
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	dental	C41136	Dental	Qualitative Concept	dental/740
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	visit	C25716	Visit	Individual Behavior	visit/747
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	TREATMENT	C15368	Treatment	Health Care Activity	TREATMENT/754
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	After	C49639	Status Post	Temporal Concept	After/774
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	consent	C25460	Consent	Conceptual Entity	consent/780
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	given	C64974	Give	Activity	given/792
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	administered	C25382	Administered	Clinical Attribute	administered/799
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	one	C66832	One	Quantitative Concept	one/812
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Septocaine	C47404	Articaine Hydrochloride	Pharmacologic Substance	Septocaine/827
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	epinephrine	C2292	Epinephrine	Biologically Active Substance, Hormone	epinephrine/843
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	buccal	C52589	Buccal Surface	Body Location or Region	buccal/861
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	infiltration	C25754	Infiltration	Molecular Function	infiltration/868
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Tooth	C12506	Tooth	Body Part, Organ, or Organ Component	Tooth/882
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	mesial	C81170	Midline	Spatial Concept	mesial/892
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	facial	C13071	Face	Body Location or Region	facial/899
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	distal	C25237	Distal	Spatial Concept	distal/906
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Placed	C126366	Placement	Activity	Placed/946
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	resin	C79662	Resin	Plant	resin/953
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	shade	C119755	Shade	Activity	shade/976
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	today's	C41134	Today	Temporal Concept	today's/1010
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	procedure	C79751	Procedure	Activity	procedure/1018
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	well	C70592	Well	Spatial Concept	well/1028
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	very	C116076	Very	Qualitative Concept	very/1041
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	His	C29597	Histidine	Amino Acid, Peptide, or Protein	His/1059
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	questions	C86071	Equivocal	Conceptual Entity	questions/1063
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	best	C25432	Best	Qualitative Concept	best/1094
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	ability	C78209	Ability	Functional Concept	ability/1105
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	He	C85242	Helium	Element, Ion, or Isotope	He/1114
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	aware	C54070	Awareness	Mental Process	aware/1120
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	if	C64955	If	Qualitative Concept	if/1131
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	problem	C28020	Problem	Phenomenon or Process	problem/1136
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	question	C41116	Question	Intellectual Product	question/1147
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	prior	C25629	Prior	Temporal Concept	prior/1163
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/1172
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	next	C53286	Next	Temporal Concept	next/1176
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	scheduled	C125937	Scheduled	Qualitative Concept	scheduled/1181
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	visit	C25716	Visit	Individual Behavior	visit/1191
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	can	C43180	Can	Manufactured Object	can/1201
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	contact	C49147	Physical Contact	Qualitative Concept	contact/1205
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	dental	C41136	Dental	Qualitative Concept	dental/1217
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	department	C42671	Department	Conceptual Entity	department/1224
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	medications	C25261	Medical	Qualitative Concept	medications/1246
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	reviewed	C45314	Reviewed	Conceptual Entity	reviewed/1263
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	signed	C25679	Signed	Qualitative Concept	signed/1303
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DDS	C415	Dapsone	Organic Chemical, Pharmacologic Substance	DDS/1326
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	11/1333
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	21	C107434	Twenty One	Quantitative Concept	21/1336
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	10	C69122	Ten	Quantitative Concept	10/1344
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	21	C107434	Twenty One	Quantitative Concept	21/1347
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	10	C69122	Ten	Quantitative Concept	10/1350
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DDS	C415	Dapsone	Organic Chemical, Pharmacologic Substance	DDS/1366
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Dental	C41136	Dental	Qualitative Concept	Dental/1370
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	11/1381
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	16	C113430	Sixteen	Quantitative Concept	16/1384
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DT	C880	Thymidine	Biologically Active Substance, Nucleic Acid, Nucleoside, or Nucleotide, Pharmacologic Substance	DT/1392
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	11	C113425	Eleven	Quantitative Concept	11/1396
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	16	C113430	Sixteen	Quantitative Concept	16/1399
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	TT	C17200	Timor-Leste	Geographic Area	TT/1407
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	14	C113428	Fourteen	Quantitative Concept	14/1410
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	MP	C17882	Northern Mariana Islands	Geographic Area	MP/1416
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	DOCUMENT	C19498	Document	Intellectual Product	DOCUMENT/1422
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	CC	C85497	Chief Complaint	Finding	CC/1447
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	MD	C43471	Maryland	Geographic Area	MD/1477
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	16	C113430	Sixteen	Quantitative Concept	16/1480
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	Main	C25562	Main	Qualitative Concept	Main/1483
+123458-Clinic Notes-2011 04 01 00 00 00-1234567891011123.txt	NY	C66742	CDISC SDTM Yes No Unknown or Not Applicable Response Terminology	Intellectual Product	NY/1498
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	New	C25586	New	Qualitative Concept	New/11
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/31, SIGNS/37
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	New	C25586	New	Qualitative Concept	New/54
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	New	C25586	New	Qualitative Concept	New/97
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/141
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	21	C107434	Twenty One	Quantitative Concept	21/153
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	1-Oct	C53106	POU2F1 wt Allele	Gene or Genome	Oct1/156
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	10	C69122	Ten	Quantitative Concept	10/161
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Temperature	C25206	Temperature	Quantitative Concept	Temperature/167
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	degrees	C25554	Level	Quantitative Concept	degrees/179
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Heart Rate	C49677	Heart Rate	Quantitative Concept	Heart/841, Rate/847
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	bpm	C49673	Beats per Minute	Quantitative Concept	bpm/852
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	59	C105794	Fifty Nine	Quantitative Concept	59/857
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Respirations	C38216	Inhalation Route of Administration	Functional Concept	Respirations/860
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	min	C48154	Minute	Temporal Concept	min/879
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	18	C111798	Eighteen	Quantitative Concept	18/884
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Systolic	C62110	Systole	Organ or Tissue Function	Systolic/887
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Systolic	C62110	Systole	Organ or Tissue Function	Systolic/900
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	mmHg	C49670	Millimeter of Mercury	Quantitative Concept	mmHg/909
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Diastolic Blood Pressure	C25299	Diastolic Blood Pressure	Clinical Attribute	Diastolic/933, Blood/952, Pressure/958
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	mmHg	C49670	Millimeter of Mercury	Quantitative Concept	mmHg/943
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Position	C25339	Position	Spatial Concept	Position/967
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Position	C25339	Position	Spatial Concept	Position/991
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Sitting	C62122	Sitting	Spatial Concept	Sitting/1001
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Method	C71460	Method	Conceptual Entity	Method/1024
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Method	C71460	Method	Conceptual Entity	Method/1046
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Pain	C3303	Pain	Sign or Symptom	Pain/1065
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Scale score	C120341	Scaled Score	Quantitative Concept	Scale/1070, score/1076
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	0 0 ECOG	C105722	ECOG Performance Status 0	Clinical Attribute	0/1087, 0/1087, ECOG/1097
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	0 0 Karnofsky	C20000	Zubrod Performance Status 5	Clinical Attribute	0/1087, 0/1087, Karnofsky/1102
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Karnofsky Scale	C28013	Karnofsky Performance Status	Clinical Attribute	Karnofsky/1102, Scale/1124
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Performance	C25361	Performance	Individual Behavior	Performance/1112
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	16	C113430	Sixteen	Quantitative Concept	16/1131
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Years Age	C37908	Age-Years	Organism Attribute	Years/1134, Age/1143
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Greater	C61421	Greater	Qualitative Concept	Greater/1150
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	over	C65018	Over	Qualitative Concept	over/1160
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	16	C113430	Sixteen	Quantitative Concept	16/1165
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	old	C65010	Old	Qualitative Concept	old/1174
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	1%=Normal TYPE	C125394	Bristol Stool Type 1	Intellectual Product	1%=Normal/1190, TYPE/1817
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	1%=Normal no no no no no no no no	C50894	NOS1 wt Allele	Gene or Genome	1%=Normal/1190, no/1183, no/1201, no/1512, no/1645, no/1693, no/1877, no/1985, no/2140
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	no evidence disease=ECOG	C40413	No Evidence of Disease	Finding	no/1201, evidence/1219, disease=ECOG/1231
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	VISIT	C83093	Visit Name	Intellectual Product	VISIT/1246
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	REASON	C25638	Reason	Idea or Concept	REASON/1252
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	other	C17649	Other	Qualitative Concept	other/1278
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	operative	C54733	Operative	Temporal Concept	operative/1285
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Known	C80137	Known	Conceptual Entity	Known/1309
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	New	C25586	New	Qualitative Concept	New/1337
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	REVIEW	C42729	Review	Activity	REVIEW/1365
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	yes	C49488	Yes	Idea or Concept	yes/1388
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	caregiver	C17445	Caregiver	Human	caregiver/1437
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	If	C64955	If	Qualitative Concept	If/1462
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	scheduled	C125937	Scheduled	Qualitative Concept	scheduled/1473
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	procedure	C79751	Procedure	Activity	procedure/1490
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Notify	C25297	Notification	Activity	Notify/1501
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	New	C25586	New	Qualitative Concept	New/1538
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	REVIEW	C42729	Review	Activity	REVIEW/1569
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	patient care	C15239	Patient Care	Health Care Activity	patient/1625, care/1633
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	changes	C25572	Modification	Qualitative Concept	changes/1648
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	ADVANCE DIRECTIVE	C93142	Advance Directive	Manufactured Object	ADVANCE/1656, DIRECTIVE/1664
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Information	C48191	Information	Conceptual Entity	Information/1714
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	SMOKING TOBACCO SMOKING TOBACCO	C17934	Tobacco Smoking	Individual Behavior	SMOKING/1755, TOBACCO/1763, SMOKING/1755, TOBACCO/1763
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	SMOKING TOBACCO SMOKING TOBACCO	C17934	Tobacco Smoking	Individual Behavior	SMOKING/1755, TOBACCO/1763, SMOKING/1755, TOBACCO/1763
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	SMOKING TOBACCO SMOKING TOBACCO	C100079	Smoking Tobacco	Plant	SMOKING/1755, TOBACCO/1763, SMOKING/1755, TOBACCO/1763
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	SMOKING TOBACCO SMOKING TOBACCO	C100079	Smoking Tobacco	Plant	SMOKING/1755, TOBACCO/1763, SMOKING/1755, TOBACCO/1763
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	TOBACCO USE TOBACCO USE	C18059	Tobacco Use	Individual Behavior	TOBACCO/1763, USE/1771, TOBACCO/1763, USE/1771
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	SCREEN	C50160	Screen Device Component	Manufactured Object	SCREEN/1810
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	VENOUS	C25291	Venous	Qualitative Concept	VENOUS/1830
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	ACCESS	C25396	Access	Conceptual Entity	ACCESS/1837
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	New	C25586	New	Qualitative Concept	New/1855
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	no	C99994	No Treatment for Diabetes	Finding	no/1877
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Present	C25626	Present	Qualitative Concept	Present/1904
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	HOSPITALIZATION	C25179	Hospitalization	Health Care Activity	HOSPITALIZATION/1916
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	FACILITY	C62574	Facility	Geographic Area	FACILITY/1953
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	INFECTION	C128320	Infection	Finding	INFECTION/1988
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	PREVENTION	C15405	Prevention	Therapeutic or Preventive Procedure	PREVENTION/1998
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	ever	C113445	Ever	Qualitative Concept	ever/2026
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	received	C25639	Receive	Functional Concept	received/2031
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	any	C81168	Any	Conceptual Entity	any/2040
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	yes	C49488	Yes	Idea or Concept	yes/2082
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Booklet	C94823	Booklet	Manufactured Object	Booklet/2087
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	given	C64974	Give	Activity	given/2095
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	NURSING NURSING Clinic	C20866	Ambulatory Care Nursing	Biomedical Occupation or Discipline	NURSING/2103, NURSING/2436, Clinic/2574
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Progress	C25630	Progress	Qualitative Concept	Progress/2125
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	today	C41134	Today	Temporal Concept	today/2154
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Signatures	C47951	Routine Signature	Idea or Concept	Signatures/2182
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/2210
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	24	C113753	Twenty Four	Quantitative Concept	24/2222
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	1-Oct	C53106	POU2F1 wt Allele	Gene or Genome	Oct1/2225
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	10	C69122	Ten	Quantitative Concept	30-Oct
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	18	C111798	Eighteen	Quantitative Concept	18/2233
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/2247, SIGNS/2253
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	VISIT	C83093	Visit Name	Intellectual Product	VISIT/2260
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	REASON	C25638	Reason	Idea or Concept	REASON/2266
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	ADVANCE DIRECTIVE	C93142	Advance Directive	Manufactured Object	ADVANCE/2298, DIRECTIVE/2306
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	SMOKING TOBACCO	C17934	Tobacco Smoking	Individual Behavior	SMOKING/2317, TOBACCO/2325
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	SMOKING TOBACCO	C100079	Smoking Tobacco	Plant	SMOKING/2317, TOBACCO/2325
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	TOBACCO USE	C18059	Tobacco Use	Individual Behavior	TOBACCO/2325, USE/2333
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	QUESTIONNAIRE	C17048	Questionnaire	Intellectual Product	QUESTIONNAIRE/2337
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	VENOUS	C25291	Venous	Qualitative Concept	VENOUS/2352
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	ACCESS	C25396	Access	Conceptual Entity	ACCESS/2359
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	HOSPITALIZATION	C25179	Hospitalization	Health Care Activity	HOSPITALIZATION/2367
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	FACILITY	C62574	Facility	Geographic Area	FACILITY/2404
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	INFECTION	C128320	Infection	Finding	INFECTION/2414
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	PREVENTION	C15405	Prevention	Therapeutic or Preventive Procedure	PREVENTION/2424
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Last	C25551	Last	Qualitative Concept	Last/2449
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	24	C113753	Twenty Four	Quantitative Concept	24/2463
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	1-Oct	C53106	POU2F1 wt Allele	Gene or Genome	Oct1/2466
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	10	C69122	Ten	Quantitative Concept	Oct-71
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	18	C111798	Eighteen	Quantitative Concept	18/2474
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/2496
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	References	C25642	Referring	Occupational Activity	References/2510
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Data	C25474	Data	Idea or Concept	Data/2525
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Referenced	C48294	Reference Object	Conceptual Entity	Referenced/2530
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/2548
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	Center Clinic	C62563	NIH Clinical Center	Group	Center/2567, Clinic/2574
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	10	C69122	Ten	Quantitative Concept	Oct-88
+123458-Outpatient Nursing Center Clinic Note-2011 03 01 00 00 00-1234567891011124.txt	18	C111798	Eighteen	Quantitative Concept	18/2591
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	New	C25586	New	Qualitative Concept	New/11
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/31, SIGNS/37
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	New	C25586	New	Qualitative Concept	New/54
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	New	C25586	New	Qualitative Concept	New/97
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/141
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/153
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	14	C113428	Fourteen	Quantitative Concept	14/161
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Temperature	C25206	Temperature	Quantitative Concept	Temperature/167
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	degrees	C25554	Level	Quantitative Concept	degrees/179
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Heart Rate	C49677	Heart Rate	Quantitative Concept	Heart/841, Rate/847
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	bpm	C49673	Beats per Minute	Quantitative Concept	bpm/852
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Respirations	C38216	Inhalation Route of Administration	Functional Concept	Respirations/860
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	min	C48154	Minute	Temporal Concept	min/879
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	18	C111798	Eighteen	Quantitative Concept	18/884
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Systolic	C62110	Systole	Organ or Tissue Function	Systolic/887
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Systolic	C62110	Systole	Organ or Tissue Function	Systolic/900
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	mmHg	C49670	Millimeter of Mercury	Quantitative Concept	mmHg/909
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	144	C17163	Sri Lanka	Geographic Area	144/915
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Diastolic Blood Pressure	C25299	Diastolic Blood Pressure	Clinical Attribute	Diastolic/933, Blood/952, Pressure/958
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	mmHg	C49670	Millimeter of Mercury	Quantitative Concept	mmHg/943
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Position	C25339	Position	Spatial Concept	Position/967
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Position	C25339	Position	Spatial Concept	Position/991
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Sitting	C62122	Sitting	Spatial Concept	Sitting/1001
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Method	C71460	Method	Conceptual Entity	Method/1024
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Method	C71460	Method	Conceptual Entity	Method/1046
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	ECOG 0	C105722	ECOG Performance Status 0	Clinical Attribute	ECOG/1065, 0/1212
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Karnofsky Scale	C28013	Karnofsky Performance Status	Clinical Attribute	Karnofsky/1070, Scale/1092
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Performance	C25361	Performance	Individual Behavior	Performance/1080
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/1099
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Years Age	C37908	Age-Years	Organism Attribute	Years/1102, Age/1111
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Greater	C61421	Greater	Qualitative Concept	Greater/1118
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	over	C65018	Over	Qualitative Concept	over/1128
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/1133
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	old	C65010	Old	Qualitative Concept	old/1142
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	1%=Normal no no no no no	C50894	NOS1 wt Allele	Gene or Genome	1%=Normal/1158, no/1151, no/1169, no/1480, no/1613, no/1661
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	1%=Normal TYPE	C125394	Bristol Stool Type 1	Intellectual Product	1%=Normal/1158, TYPE/1785
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	no evidence disease=ECOG	C40413	No Evidence of Disease	Finding	no/1169, evidence/1187, disease=ECOG/1199
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	VISIT	C83093	Visit Name	Intellectual Product	VISIT/1214
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	REASON	C25638	Reason	Idea or Concept	REASON/1220
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	other	C17649	Other	Qualitative Concept	other/1246
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	operative	C54733	Operative	Temporal Concept	operative/1253
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Known	C80137	Known	Conceptual Entity	Known/1277
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	New	C25586	New	Qualitative Concept	New/1305
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	REVIEW	C42729	Review	Activity	REVIEW/1333
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	yes	C49488	Yes	Idea or Concept	yes/1356
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	caregiver	C17445	Caregiver	Human	caregiver/1405
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	If	C64955	If	Qualitative Concept	If/1430
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	scheduled	C125937	Scheduled	Qualitative Concept	scheduled/1441
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	procedure	C79751	Procedure	Activity	procedure/1458
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Notify	C25297	Notification	Activity	Notify/1469
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	New	C25586	New	Qualitative Concept	New/1506
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	REVIEW	C42729	Review	Activity	REVIEW/1537
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	patient care	C15239	Patient Care	Health Care Activity	patient/1593, care/1601
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	changes	C25572	Modification	Qualitative Concept	changes/1616
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	ADVANCE DIRECTIVE	C93142	Advance Directive	Manufactured Object	ADVANCE/1624, DIRECTIVE/1632
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Information	C48191	Information	Conceptual Entity	Information/1682
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	SMOKING TOBACCO SMOKING TOBACCO	C17934	Tobacco Smoking	Individual Behavior	SMOKING/1723, TOBACCO/1731, SMOKING/1723, TOBACCO/1731
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	SMOKING TOBACCO SMOKING TOBACCO	C17934	Tobacco Smoking	Individual Behavior	SMOKING/1723, TOBACCO/1731, SMOKING/1723, TOBACCO/1731
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	SMOKING TOBACCO SMOKING TOBACCO	C100079	Smoking Tobacco	Plant	SMOKING/1723, TOBACCO/1731, SMOKING/1723, TOBACCO/1731
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	SMOKING TOBACCO SMOKING TOBACCO	C100079	Smoking Tobacco	Plant	SMOKING/1723, TOBACCO/1731, SMOKING/1723, TOBACCO/1731
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	TOBACCO USE TOBACCO USE	C18059	Tobacco Use	Individual Behavior	TOBACCO/1731, USE/1739, TOBACCO/1731, USE/1739
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	QUESTIONNAIRE	C17048	Questionnaire	Intellectual Product	QUESTIONNAIRE/1743
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	SCREEN	C50160	Screen Device Component	Manufactured Object	SCREEN/1778
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	VENOUS	C25291	Venous	Qualitative Concept	VENOUS/1798
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	ACCESS	C25396	Access	Conceptual Entity	ACCESS/1805
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	New	C25586	New	Qualitative Concept	New/1823
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Present	C25626	Present	Qualitative Concept	Present/1872
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	no	C99994	No Treatment for Diabetes	Finding	no/1881
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	HOSPITALIZATION	C25179	Hospitalization	Health Care Activity	HOSPITALIZATION/1884
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	FACILITY	C62574	Facility	Geographic Area	FACILITY/1921
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	INFECTION	C128320	Infection	Finding	INFECTION/1956
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	PREVENTION	C15405	Prevention	Therapeutic or Preventive Procedure	PREVENTION/1966
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	patient	C16960	Patient	Patient or Disabled Group	patient/1986
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	ever	C113445	Ever	Qualitative Concept	ever/1994
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	received	C25639	Receive	Functional Concept	received/1999
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	any	C81168	Any	Conceptual Entity	any/2008
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	information	C48191	Information	Conceptual Entity	information/2012
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	yes	C49488	Yes	Idea or Concept	yes/2050
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Booklet	C94823	Booklet	Manufactured Object	Booklet/2055
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	given	C64974	Give	Activity	given/2063
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	NURSING	C16926	Nursing	Biomedical Occupation or Discipline	NURSING/2071
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Progress	C25630	Progress	Qualitative Concept	Progress/2093
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	no	C49487	No	Classification	no/2108
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	dental	C41136	Dental	Qualitative Concept	dental/2111
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	patient states	C69192	Patient Physiological Condition	Intellectual Product	patient/2130, states/2138
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	he	C85242	Helium	Element, Ion, or Isotope	he/2150
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	cut	C50518	Cut	Injury or Poisoning	cut/2153
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	finger	C32608	Finger	Anatomical Structure	finger/2159
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/2169
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	left	C25229	Left	Spatial Concept	left/2173
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	hand	C32712	Hand	Anatomical Structure	hand/2178
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	metal	C637	Metal	Inorganic Chemical	metal/2196
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	bleeding	C26791	Hemorrhage	Finding	bleeding/2210
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	he	C85242	Helium	Element, Ion, or Isotope	he/2224
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	clinic	C51282	Clinic	Health Care Related Organization	clinic/2235
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	patient	C16960	Patient	Patient or Disabled Group	patient/2243
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	removed	C25650	Removed	Qualitative Concept	removed/2251
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/2259
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/2282
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	hands	C71216	Hand Unit of Length	Quantitative Concept	hands/2286
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	after	C49639	Status Post	Temporal Concept	after/2293
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	area	C25244	Area	Spatial Concept	area/2308
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	applied	C113519	Apply	Activity	applied/2333
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	antibiotic	C258	Antibiotic	Chemical Viewed Functionally	antibiotic/2348
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	ointment	C42966	Ointment Dosage Form	Biomedical or Dental Material	ointment/2359
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	new	C25586	New	Qualitative Concept	new/2374
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	bandage	C69012	Bandage Dosage Form	Biomedical or Dental Material	bandage/2378
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	NP	C51016	PNP wt Allele	Gene or Genome	NP/2403
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	service	C47920	Service	Activity	service/2415
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	order	C54092	Order	Intellectual Product	order/2438
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	immunization	C15258	Immunization	Therapeutic or Preventive Procedure	immunization/2456
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	patient	C16960	Patient	Patient or Disabled Group	patient/2470
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	clinic	C51282	Clinic	Health Care Related Organization	clinic/2495
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	he	C85242	Helium	Element, Ion, or Isotope	he/2503
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	return	C71900	Return	Activity	return/2511
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	after	C49639	Status Post	Temporal Concept	after/2518
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	his	C29597	Histidine	Amino Acid, Peptide, or Protein	his/2524
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	receive	C25639	Receive	Functional Concept	receive/2536
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	injection	C122632	Injection Dosing Unit	Quantitative Concept	injection/2544
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Signatures	C47951	Routine Signature	Idea or Concept	Signatures/2566
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Section	C48956	Section	Geographic Area	Section/2588
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/2613
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Signed	C25679	Signed	Qualitative Concept	Signed/2618
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/2632
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/2640
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	patient	C16960	Patient	Patient or Disabled Group	patient/2657
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	returned	C106328	Quantity Final Containers Returned	Quantitative Concept	returned/2665
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	clinic	C51282	Clinic	Health Care Related Organization	clinic/2677
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	14	C113428	Fourteen	Quantitative Concept	14/2687
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	40	C105795	Forty	Quantitative Concept	40/2690
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	surgeon	C18071	Surgeon	Biomedical Occupation or Discipline	surgeon/2705
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	service	C47920	Service	Activity	service/2721
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	evaluated	C25214	Evaluation	Activity	evaluated/2729
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	pt's	C756	Platinum	Element, Ion, or Isotope	pt's/2739
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	wound	C66993	Wound	Finding	wound/2744
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	keep	C99569	Retain	Activity	keep/2769
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	clean	C65076	Clean	Activity	clean/2777
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	no	C49487	No	Classification	no/2784
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	sutures	C47889	Suture Dosage Form	Biomedical or Dental Material	sutures/2787
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	required	C25652	Requirement	Functional Concept	required/2799
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	pertussis	C85231	Whooping Cough	Disease or Syndrome	pertussis/2829
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	vaccine	C923	Vaccine	Classification	vaccine/2839
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	administered	C25382	Administered	Clinical Attribute	administered/2847
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	ordered	C48906	Order	Activity	ordered/2863
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Signatures	C47951	Routine Signature	Idea or Concept	Signatures/2893
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/2921
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Signed VITAL	C49622	Vital Signs Domain	Idea or Concept	Signed/2926, VITAL/2958
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16	C113430	Sixteen	Quantitative Concept	16/2933
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	14	C113428	Fourteen	Quantitative Concept	14/2941
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	10	C69122	Ten	Quantitative Concept	Oct-44
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	VISIT	C25716	Visit	Individual Behavior	VISIT/2971
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	REASON	C25638	Reason	Idea or Concept	REASON/2977
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	ADVANCE DIRECTIVE	C93142	Advance Directive	Manufactured Object	ADVANCE/3009, DIRECTIVE/3017
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	SMOKING TOBACCO	C17934	Tobacco Smoking	Individual Behavior	SMOKING/3028, TOBACCO/3036
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	SMOKING TOBACCO	C100079	Smoking Tobacco	Plant	SMOKING/3028, TOBACCO/3036
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	TOBACCO USE	C18059	Tobacco Use	Individual Behavior	TOBACCO/3036, USE/3044
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	QUESTIONNAIRE	C17048	Questionnaire	Intellectual Product	QUESTIONNAIRE/3048
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	VENOUS	C25291	Venous	Qualitative Concept	VENOUS/3063
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	ACCESS	C25396	Access	Conceptual Entity	ACCESS/3070
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	HOSPITALIZATION	C25179	Hospitalization	Health Care Activity	HOSPITALIZATION/3078
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	TREATMENT	C15368	Treatment	Health Care Activity	TREATMENT/3094
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	FACILITY	C62574	Facility	Geographic Area	FACILITY/3115
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	INFECTION	C128320	Infection	Finding	INFECTION/3125
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	PREVENTION	C15405	Prevention	Therapeutic or Preventive Procedure	PREVENTION/3135
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	NURSING	C16926	Nursing	Biomedical Occupation or Discipline	NURSING/3147
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	NOTE	C42619	Note	Intellectual Product	NOTE/3155
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Last	C25551	Last	Qualitative Concept	Last/3160
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16 16	C113430	Sixteen	Quantitative Concept	16/3174, 16/3174
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	16 16	C113430	Sixteen	Quantitative Concept	16/3174, 16/3174
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/3207
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	References	C25642	Referring	Occupational Activity	References/3221
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Data	C25474	Data	Idea or Concept	Data/3236
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Referenced	C48294	Reference Object	Conceptual Entity	Referenced/3241
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/3259
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Nursing Clinic	C20866	Ambulatory Care Nursing	Biomedical Occupation or Discipline	Nursing/3270, Clinic/3285
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Center Clinic	C62563	NIH Clinical Center	Group	Center/3278, Clinic/3285
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	Note	C42619	Note	Intellectual Product	Note/3292
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	10	C69122	Ten	Quantitative Concept	Oct-99
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	21	C107434	Twenty One	Quantitative Concept	21/3302
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	10	C69122	Ten	Quantitative Concept	10-Oct
+123458-Outpatient Nursing Center Clinic Note-2011 04 01 14 03 00-1234567891011125.txt	AM	C16306	Armenia	Geographic Area	AM/3316
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	New	C25586	New	Qualitative Concept	New/11
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/31, SIGNS/37
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	New	C25586	New	Qualitative Concept	New/54
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	New	C25586	New	Qualitative Concept	New/97
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/141
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	20	C105799	Twenty	Quantitative Concept	20/164
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Temperature	C25206	Temperature	Quantitative Concept	Temperature/167
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	degrees	C25554	Level	Quantitative Concept	degrees/179
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Heart Rate	C49677	Heart Rate	Quantitative Concept	Heart/841, Rate/847
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	bpm	C49673	Beats per Minute	Quantitative Concept	bpm/852
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Respirations	C38216	Inhalation Route of Administration	Functional Concept	Respirations/860
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	min	C48154	Minute	Temporal Concept	min/879
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	18	C111798	Eighteen	Quantitative Concept	18/884
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Systolic	C62110	Systole	Organ or Tissue Function	Systolic/887
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Systolic	C62110	Systole	Organ or Tissue Function	Systolic/900
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	mmHg	C49670	Millimeter of Mercury	Quantitative Concept	mmHg/909
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Diastolic Blood Pressure	C25299	Diastolic Blood Pressure	Clinical Attribute	Diastolic/933, Blood/952, Pressure/958
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	mmHg	C49670	Millimeter of Mercury	Quantitative Concept	mmHg/943
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Position	C25339	Position	Spatial Concept	Position/967
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Position	C25339	Position	Spatial Concept	Position/991
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Sitting	C62122	Sitting	Spatial Concept	Sitting/1001
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Method	C71460	Method	Conceptual Entity	Method/1024
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Method	C71460	Method	Conceptual Entity	Method/1046
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Pain orally orally orally orally orally orally orally orally orally orally	C78509	Oral Pain	Sign or Symptom	Pain/1065, orally/1613, orally/1768, orally/1847, orally/1904, orally/1996, orally/1996, orally/2051, orally/2106, orally/2161, orally/2352
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Scale score	C120341	Scaled Score	Quantitative Concept	Scale/1070, score/1076
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	10 3	C67234	Thousand	Quantitative Concept	10/1091, 3/1095
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	3 ECOG	C105726	ECOG Performance Status 3	Clinical Attribute	3/1095, ECOG/1097
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	3 day every 3 day day every day day day day day 3 3 day	C64533	Every Three Days	Temporal Concept	3/1095, day/1627, every/1716, 3/1722, day/1785, day/1861, every/1911, day/2010, day/2010, day/2065, day/2120, day/2175, 3/2343, 3/2343, day/2369
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Karnofsky Scale	C28013	Karnofsky Performance Status	Clinical Attribute	Karnofsky/1102, Scale/1124
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Performance	C25361	Performance	Individual Behavior	Performance/1112
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	16	C113430	Sixteen	Quantitative Concept	16/1131
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Years Age	C37908	Age-Years	Organism Attribute	Years/1134, Age/1143
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Greater	C61421	Greater	Qualitative Concept	Greater/1150
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	over	C65018	Over	Qualitative Concept	over/1160
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	16	C113430	Sixteen	Quantitative Concept	16/1165
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	old	C65010	Old	Qualitative Concept	old/1174
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Normal	C14165	Normal	Conceptual Entity	Normal/1195
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	activity	C43431	Activity	Activity	activity/1202
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	effort	C74530	Effort	Conceptual Entity	effort/1216
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	some	C65099	Some	Activity	some/1224
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	symptoms	C4876	Symptom	Sign or Symptom	symptoms/1229
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	ECOG 1	C105723	ECOG Performance Status 1	Clinical Attribute	ECOG/1250, 1/1255
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VISIT	C83093	Visit Name	Intellectual Product	VISIT/1257
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	REASON	C25638	Reason	Idea or Concept	REASON/1263
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	follow up	C16033	Follow-up	Health Care Activity	follow/1289, up/1296
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	No TREATMENT TREATMENT	C99994	No Treatment for Diabetes	Finding	No/1310, TREATMENT/2838, TREATMENT/3409
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Known	C80137	Known	Conceptual Entity	Known/1313
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	New	C25586	New	Qualitative Concept	New/1341
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	REVIEW	C42729	Review	Activity	REVIEW/1369
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	yes	C49488	Yes	Idea or Concept	yes/1392
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	caregiver	C17445	Caregiver	Human	caregiver/1441
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	If	C64955	If	Qualitative Concept	If/1466
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	scheduled	C125937	Scheduled	Qualitative Concept	scheduled/1477
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	procedure	C79751	Procedure	Activity	procedure/1494
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Notify	C25297	Notification	Activity	Notify/1505
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	MEDICATIONS TREATMENT MEDICATIONS TREATMENT	C15986	Pharmacotherapy	Therapeutic or Preventive Procedure	MEDICATIONS/1519, TREATMENT/2838, MEDICATIONS/3311, TREATMENT/3409
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	New	C25586	New	Qualitative Concept	New/1542
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/1562
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Profile	C84385	Profile	Activity	Profile/1584
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Diflucan	C500	Fluconazole	Antibiotic, Organic Chemical	Diflucan/1593
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	tab orally	C43243	Oral Tablet Dosage Form	Biomedical or Dental Material	tab/1606, orally/1613
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	orally orally orally orally orally orally capsule orally orally capsule orally orally	C91165	Oral Capsule Dosage Form	Biomedical or Dental Material	orally/1613, orally/1768, orally/1847, orally/1904, orally/1996, orally/1996, capsule/2087, orally/2051, orally/2106, capsule/2207, orally/2161, orally/2352
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	once day	C125004	Once Daily	Quantitative Concept	once/1620, day/1627
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	fentanyl	C494	Fentanyl	Organic Chemical, Pharmacologic Substance	fentanyl/1640
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	12	C113426	Twelve	Quantitative Concept	12/1649
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	mcg	C48152	Microgram	Quantitative Concept	mcg/1652
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	hr	C25529	Hour	Temporal Concept	hr/1656
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	film extended release	C42920	Extended Release Film Dosage Form	Biomedical or Dental Material	film/1671, extended/1677, release/1686
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	film extended release	C82332	Patch	Manufactured Object	film/1671, extended/1677, release/1686
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	extended release PATCH	C42923	Extended Release Patch Dosage Form	Biomedical or Dental Material	extended/1677, release/1686, PATCH/1698
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	extended release PATCH	C42923	Extended Release Patch Dosage Form	Biomedical or Dental Material	extended/1677, release/1686, PATCH/1698
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	PATCH transdermal	C70626	Transdermal Patch Dosing Unit	Quantitative Concept	PATCH/1698, transdermal/1704
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	nystatin	C710	Nystatin	Antibiotic, Organic Chemical	nystatin/1729
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	10	C105489	Hundred Million Per Liter	Quantitative Concept	10/1738
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	units mL mL	C77607	Unit per Milliliter	Quantitative Concept	units/1741, mL/1747, mL/1747
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	suspension	C45304	Suspension	Substance	suspension/1750
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	4 times day	C64530	Four Times Daily	Temporal Concept	4/1775, times/1777, day/1785
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	14	C113428	Fourteen	Quantitative Concept	14/1791
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	1 cap	C96379	TNF Receptor-Associated Factor 3	Amino Acid, Peptide, or Protein	1/1791, cap/1840
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	swish spit	C38302	Swish and Spit Route of Administration	Functional Concept	swish/1799, spit/1809
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	echinacea	C54160	Echinacea	Plant	echinacea/1814
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	once day	C125004	Once Daily	Quantitative Concept	once/1854, day/1861
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	prochlorperazine	C774	Prochlorperazine	Organic Chemical, Pharmacologic Substance	prochlorperazine/1865
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	tablet orally	C43243	Oral Tablet Dosage Form	Biomedical or Dental Material	tablet/1893, orally/1904
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	every 6 hours	C64520	Every Six Hours	Temporal Concept	every/1911, 6/1917, hours/1919
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	nausea vomiting	C3259	Nausea and Vomiting	Finding	nausea/1939, vomiting/1946
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	nausea vomiting	C3259	Nausea and Vomiting	Finding	nausea/1939, vomiting/1946
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Multiple	C17648	Multiple	Qualitative Concept	Multiple/1955
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Vitamins E	C942	Vitamin E Compound	Pharmacologic Substance, Vitamin	Vitamins/1964, E/2187
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Vitamins E	C942	Vitamin E Compound	Pharmacologic Substance, Vitamin	Vitamins/1964, E/2187
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	tab orally tab orally	C43243	Oral Tablet Dosage Form	Biomedical or Dental Material	tab/1978, orally/1996, tab/1989, orally/1996
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	orally tab orally	C43243	Oral Tablet Dosage Form	Biomedical or Dental Material	orally/1996, tab/1989, orally/1996
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	once day once day	C125004	Once Daily	Quantitative Concept	once/2003, day/2010, once/2003, day/2010
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	once day once day once day	C125004	Once Daily	Quantitative Concept	once/2003, day/2010, once/2003, day/2010, once/2058, day/2065
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	aspirin	C287	Aspirin	Organic Chemical, Pharmacologic Substance	aspirin/2014
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	once day once day	C125004	Once Daily	Quantitative Concept	once/2058, day/2065, once/2113, day/2120
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	once day once day	C125004	Once Daily	Quantitative Concept	once/2113, day/2120, once/2168, day/2175
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Lipitor	C28837	Atorvastatin Calcium	Organic Chemical, Pharmacologic Substance	Lipitor/2124
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	1	C96379	TNF Receptor-Associated Factor 3	Amino Acid, Peptide, or Protein	Jan-52
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	once day	C125004	Once Daily	Quantitative Concept	once/2168, day/2175
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	constipation	C37930	Constipation	Finding	constipation/2266
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	dose frequency	C89081	Dose Frequency	Functional Concept	dose/2285, frequency/2303
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	strength	C87802	Physical Strength	Conceptual Entity	strength/2291
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	provided	C80514	Provide	Activity	provided/2313
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Advil	C561	Ibuprofen	Organic Chemical, Pharmacologic Substance	Advil/2323
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	2 mg	C68265	Magnesium Cation	Element, Ion, or Isotope	2/2329, mg/2331
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	tab	C43243	Oral Tablet Dosage Form	Biomedical or Dental Material	tab/2334
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	3 3 times day	C64527	Three Times Daily	Temporal Concept	3/2343, 3/2343, times/2361, day/2369
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	meals	C80248	Meal	Classification	meals/2378
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	New	C25586	New	Qualitative Concept	New/2394
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	REVIEW	C42729	Review	Activity	REVIEW/2425
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	patient care	C15239	Patient Care	Health Care Activity	patient/2481, care/2489
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	changes	C25572	Modification	Qualitative Concept	changes/2504
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	ADVANCE DIRECTIVE	C93142	Advance Directive	Manufactured Object	ADVANCE/2512, DIRECTIVE/2520
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Health	C25178	Health	Idea or Concept	Health/2549
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Proxy	C119264	Proxy	Manufactured Object	Proxy/2561
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	SMOKING TOBACCO	C17934	Tobacco Smoking	Individual Behavior	SMOKING/2567, TOBACCO/2575
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	SMOKING TOBACCO	C100079	Smoking Tobacco	Plant	SMOKING/2567, TOBACCO/2575
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	TOBACCO USE	C18059	Tobacco Use	Individual Behavior	TOBACCO/2575, USE/2583
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	QUESTIONNAIRE SCREEN SCREEN SCREEN	C62696	Screening Questionnaire	Intellectual Product	QUESTIONNAIRE/2587, SCREEN/2610, SCREEN/2610, SCREEN/2610
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	INITIAL	C53612	Initial Usage	Functional Concept	INITIAL/2602
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	DATE DATE	C72063	Date Fruit	Plant, Food	DATE/2617, DATE/2617
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	DATE DATE	C72063	Date Fruit	Plant, Food	DATE/2617, DATE/2617
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	21	C107434	Twenty One	Quantitative Concept	21/2622
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	11	C113425	Eleven	Quantitative Concept	29-Nov
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	ESTABLISHED	C71155	Established	Qualitative Concept	ESTABLISHED/2633
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	27	C126887	Twenty Seven	Quantitative Concept	27/2658
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	12	C113426	Twelve	Quantitative Concept	Dec-65
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	TOBACCO USE	C18059	Tobacco Use	Individual Behavior	TOBACCO/2677, USE/2685
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VENOUS	C25291	Venous	Qualitative Concept	VENOUS/2736
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	ACCESS	C25396	Access	Conceptual Entity	ACCESS/2743
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	New	C25586	New	Qualitative Concept	New/2761
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Present	C25626	Present	Qualitative Concept	Present/2810
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	HOSPITALIZATION	C25179	Hospitalization	Health Care Activity	HOSPITALIZATION/2822
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	FACILITY	C62574	Facility	Geographic Area	FACILITY/2859
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	received received	C25639	Receive	Functional Concept	received/2890, received/2890
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	received received	C25639	Receive	Functional Concept	received/2890, received/2890
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	since	C45325	Since	Temporal Concept	since/2917
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	last	C25551	Last	Qualitative Concept	last/2923
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	INFECTION	C128320	Infection	Finding	INFECTION/2938
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	PREVENTION	C15405	Prevention	Therapeutic or Preventive Procedure	PREVENTION/2948
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	ever	C113445	Ever	Qualitative Concept	ever/2976
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	any	C81168	Any	Conceptual Entity	any/2990
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	information	C48191	Information	Conceptual Entity	information/2994
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	yes	C49488	Yes	Idea or Concept	yes/3032
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	NURSING NURSING Clinic	C20866	Ambulatory Care Nursing	Biomedical Occupation or Discipline	NURSING/3038, NURSING/3462, Clinic/3600
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Progress	C25630	Progress	Qualitative Concept	Progress/3060
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	completed	C25250	Complete	Qualitative Concept	completed/3087
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	radiation	C17050	Electromagnetic Radiation	Natural Phenomenon or Process	radiation/3097
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	he	C85242	Helium	Element, Ion, or Isotope	he/3108
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	having difficulty swallowing	C125410	Have Difficulty Swallowing	Intellectual Product	having/3114, difficulty/3121, swallowing/3132
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	mostly	C25258	Most	Qualitative Concept	mostly/3162
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	left side	C124553	Left-Sided	Qualitative Concept	left/3176, side/3181
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Signatures	C47951	Routine Signature	Idea or Concept	Signatures/3208
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/3236
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	11	C113425	Eleven	Quantitative Concept	Nov-56
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	19	C105801	Nineteen	Quantitative Concept	19/3259
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VITAL SIGNS	C49622	Vital Signs Domain	Idea or Concept	VITAL/3273, SIGNS/3279
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VISIT	C83093	Visit Name	Intellectual Product	VISIT/3286
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	REASON	C25638	Reason	Idea or Concept	REASON/3292
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	ADVANCE DIRECTIVE	C93142	Advance Directive	Manufactured Object	ADVANCE/3324, DIRECTIVE/3332
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	SMOKING TOBACCO	C17934	Tobacco Smoking	Individual Behavior	SMOKING/3343, TOBACCO/3351
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	SMOKING TOBACCO	C100079	Smoking Tobacco	Plant	SMOKING/3343, TOBACCO/3351
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	TOBACCO USE	C18059	Tobacco Use	Individual Behavior	TOBACCO/3351, USE/3359
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	VENOUS	C25291	Venous	Qualitative Concept	VENOUS/3378
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	ACCESS	C25396	Access	Conceptual Entity	ACCESS/3385
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	HOSPITALIZATION	C25179	Hospitalization	Health Care Activity	HOSPITALIZATION/3393
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	FACILITY	C62574	Facility	Geographic Area	FACILITY/3430
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	INFECTION	C128320	Infection	Finding	INFECTION/3440
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	PREVENTION	C15405	Prevention	Therapeutic or Preventive Procedure	PREVENTION/3450
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	11	C113425	Eleven	Quantitative Concept	Nov-97
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	19	C105801	Nineteen	Quantitative Concept	19/3500
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	RN	C20824	Registered Nurse	Biomedical Occupation or Discipline	RN/3522
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	References	C25642	Referring	Occupational Activity	References/3536
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Data	C25474	Data	Idea or Concept	Data/3551
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Referenced	C48294	Reference Object	Conceptual Entity	Referenced/3556
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Outpatient	C28293	Outpatient	Patient or Disabled Group	Outpatient/3574
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	Center Clinic	C62563	NIH Clinical Center	Group	Center/3593, Clinic/3600
+123459-Outpatient Nursing Center Clinic Note-2012 09 01 10 20 00-1234567891011126.txt	14	C113428	Fourteen	Quantitative Concept	14/3625
