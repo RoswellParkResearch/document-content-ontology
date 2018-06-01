@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (document content ontology.vue) 2018-05-31 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/Applications/VUE.localized/VUE.app/Contents/Resources/Java/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Thu May 31 21:52:42 EDT 2018 by widuncan on platform Mac OS X 10.12.6 in JVM 1.8.0_45-b14 -->
+<!-- Do Not Remove: Saved date Thu May 31 22:10:03 EDT 2018 by widuncan on platform Mac OS X 10.12.6 in JVM 1.8.0_45-b14 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="document content ontology.vue" created="1527191480438"
     x="0.0" y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1527817962646" size="41802"
+    <resource referenceCreated="1527819003735" size="41929"
         spec="/Users/widuncan/repos/git/Roswell-Park-Research/document-content-ontology/diagrams/document content ontology.vue"
         type="1" xsi:type="URLResource">
         <title>document content ontology.vue</title>
@@ -341,7 +341,7 @@
 </richText>
             <label>length</label>
         </child>
-        <child ID="52" label="data value" created="1527206994649"
+        <child ID="52" label="string value" created="1527206994649"
             x="34.0" y="72.0" width="86.0" height="22.0"
             strokeWidth="0.0" autoSized="false" xsi:type="text">
             <strokeColor>#404040</strokeColor>
@@ -362,12 +362,12 @@
   &lt;/head&gt;
   &lt;body&gt;
     &lt;p color="#000000" style="color: #000000"&gt;
-      &lt;b&gt;&lt;font style="font-size:14;" face="Cambria"&gt;data value&lt;/font&gt;&lt;/b&gt;
+      &lt;b&gt;&lt;font style="font-size:14;" face="Cambria"&gt;string value&lt;/font&gt;&lt;/b&gt;
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-            <label>data value</label>
+            <label>string value</label>
         </child>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
@@ -463,7 +463,7 @@
 </richText>
             <label>length</label>
         </child>
-        <child ID="56" label="data value" created="1527207079884"
+        <child ID="56" label="string value" created="1527207079884"
             x="34.0" y="93.0" width="86.0" height="20.0"
             strokeWidth="0.0" autoSized="false" xsi:type="text">
             <strokeColor>#404040</strokeColor>
@@ -484,12 +484,12 @@
   &lt;/head&gt;
   &lt;body&gt;
     &lt;p color="#000000" style="color: #000000"&gt;
-      &lt;b&gt;&lt;font style="font-size:14;" face="Cambria"&gt;data value&lt;/font&gt;&lt;/b&gt;
+      &lt;b&gt;&lt;font style="font-size:14;" face="Cambria"&gt;string value&lt;/font&gt;&lt;/b&gt;
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
 </richText>
-            <label>data value</label>
+            <label>string value</label>
         </child>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
