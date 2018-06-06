@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.roswellpark.org/document-content-ontology.owl#"
-     xml:base="http://purl.roswellpark.org/document-content-ontology.owl"
+<rdf:RDF xmlns="http://purl.roswellpark.org/document-content-ontology.owl/"
+     xml:base="http://purl.roswellpark.org/document-content-ontology.owl/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:document-content-ontology="http://purl.roswellpark.org/document-content-ontology/"
@@ -280,7 +280,7 @@ Adapted from the Semanticscience Integrated Ontology&apos;s definition for morph
 A morpheme is the smallest semantically meaningful unit in a language.
 
 http://semanticscience.org/resource/SIO_001040</obo:IAO_0000116>
-        <obo:IAO_0000600>The smallest semantically meaningful sequence fo symbols within a document.</obo:IAO_0000600>
+        <obo:IAO_0000600>The smallest syntactic sequence of symbols within a document that function as a single unit.</obo:IAO_0000600>
         <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bill Duncan &lt;http://orcid.org/0000-0001-9625-1899&gt;</dc:creator>
         <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-06-01T20:54:00Z</dc:date>
         <rdfs:label>word</rdfs:label>
