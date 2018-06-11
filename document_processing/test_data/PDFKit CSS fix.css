@@ -1,0 +1,6 @@
+thead { display: table-row-group }
+thead th {
+height: 2.1cm;
+}
+tfoot { display: table-row-group }
+tr { page-break-inside: avoid }
