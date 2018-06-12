@@ -1,0 +1,4 @@
+python_version > 2.7
+sys.platform == 'win32'
+pandas==0.22.0
+pdfkit==0.6.1
