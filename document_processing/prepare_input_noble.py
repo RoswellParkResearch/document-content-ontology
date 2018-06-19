@@ -78,10 +78,3 @@ def process_file_to_files(raw_data_path_in, output_directory, batch_size=100, se
             break
 
     print "File creation done"
-
-if __name__ == "__main__":
-
-    process_file_to_files(
-        'Z:\Projects\Bill Duncan\Osteoradionecrosis of jaw\ONJ notes + mining\Methods\Noble - NLP\All pentoxifylline patients\Pentoxifylline patient notes_Edit.txt',
-        'C:\Users\ph37399\.noble\input'
-    )
